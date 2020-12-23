@@ -1,6 +1,6 @@
 package com.wangxiao.juc.c_018_01_Unsafe;
 
-import sun.misc.Unsafe;
+import jdk.internal.misc.Unsafe;
 
 /**
  * @author wangxiao

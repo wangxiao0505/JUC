@@ -1,7 +1,5 @@
 package com.wangxiao.juc.c_008;
 
-import sun.applet.Main;
-
 import java.util.concurrent.TimeUnit;
 
 /**
